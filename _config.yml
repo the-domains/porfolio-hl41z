@@ -1,0 +1,14 @@
+layout_spectrum: 0.11870275950059295
+typography_spectrum: 0.17664146539755166
+color:
+  brandStrength: 0.7750910494942218
+  lightness: 0.8392419607844204
+  saturation: 0.5914011297281832
+  rhythmicContrast: 0.17552978545427322
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: porfolio
